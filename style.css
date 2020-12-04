@@ -1,0 +1,32 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: blueviolet;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: cornsilk;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+      background-color: cyan;
+      display: flex;
+      justify-content: flex-end;
+}
+h2,p{
+    text-align: center;
+}
+
+body{
+    background-color:#808080
+}
